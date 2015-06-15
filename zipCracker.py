@@ -34,6 +34,7 @@ class zipCrack:
                 try:
                     zipFile.extractall(pwd=password)
                     print "[+] Password Found: { %s }" % password
+                    print "[+] CTRL + Z, to exit."
                 except:
                     pass
 
