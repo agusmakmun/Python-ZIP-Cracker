@@ -4,7 +4,7 @@ Python ZIP Cracker with Bruteforce method and create file wordlist or with wordl
 
 ```
 """
-Name             : Python Buntal
+Name             : Python ZIP Cracker
 Created By       : Agus Makmun (Summon Agus)
 Blog             : bloggersmart.net - python.web.id
 License          : GNU GENERAL PUBLIC LICENSE Version 2, June 1991
