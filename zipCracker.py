@@ -49,6 +49,7 @@ class zipCrack:
               """
         print "[+] Please choice this options:\n 1. Get Password with Brute Force\n 2. Get Password with Wordlist File."
         inp_usr = raw_input("[+] Enter Options: ")
+        mome = zipCrack()
         if inp_usr == '1':
             zipFile = raw_input("[+] Enter *.zip Filename (ex: myzip.zip): ")
             min_length = input("[+] Enter Integer Min-Length (ex: 1): ")
