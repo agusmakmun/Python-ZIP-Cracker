@@ -8,7 +8,7 @@ Name             : Python Buntal
 Created By       : Agus Makmun (Summon Agus)
 Blog             : bloggersmart.net - python.web.id
 License          : GNU GENERAL PUBLIC LICENSE Version 2, June 1991
-Documentation    : https://github.com/agusmakmun/Python-Buntal/
+Documentation    : https://github.com/agusmakmun/Python-ZIP-Cracker/
 """
 ```
 <h4>1. With create file wordlist method.</h4>
