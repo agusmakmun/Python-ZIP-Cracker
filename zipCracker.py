@@ -55,7 +55,7 @@ class zipCrack:
             max_length = input("[+] Enter Integer Max-Length (ex: 2): ")
             wordList = 'wordlist.txt'
             if min_length > max_length:
-                print "[-] Upps Filed..!! Min-Length must smaller within Max-Length."
+                print "[-] Upps Failed..!! Min-Length must smaller within Max-Length."
                 sys.exit()
             else:
                 pass
