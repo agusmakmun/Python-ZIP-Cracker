@@ -4,7 +4,11 @@ Python ZIP Cracker with Bruteforce method and create file wordlist or with wordl
 
 <b>Weakness in the first method</b><br />
 The longer from length of password it will increasingly require large memory resources .. <br />
-so there may be an error if the memory is not strong.
+so there may be an error if the memory is not strong.<br />
+<br />
+If you want getting with first method, we recommend to you use ``min-length`` and ``max-length`` as same as with ``max-length``. example use: ``min-length: 4`` and ``max-length: 4``.
+
+
 
 ```
 """
