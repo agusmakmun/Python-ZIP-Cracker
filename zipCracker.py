@@ -47,7 +47,7 @@ class zipCrack:
               |  Repository      : github.com/agusmakmun             |
               +------------------------------------------------------+ 
               """
-        print "[+] Please choice this option:\n 1. Get Password with Brute Force\n 2. Get Password with Wordlist File."
+        print "[+] Please choice this options:\n 1. Get Password with Brute Force\n 2. Get Password with Wordlist File."
         inp_usr = raw_input("[+] Enter Options: ")
         if inp_usr == '1':
             zipFile = raw_input("[+] Enter *.zip Filename (ex: myzip.zip): ")
