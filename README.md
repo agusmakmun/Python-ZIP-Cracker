@@ -2,6 +2,10 @@
 
 Python ZIP Cracker with Bruteforce method and create file wordlist or with wordlist file.
 
+<b>Weakness in the first method</b>
+The longer from length of password it will increasingly require large memory resources .. <br />
+so there may be an error if the memory is not strong.
+
 ```
 """
 Name             : Python ZIP Cracker
