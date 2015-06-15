@@ -12,6 +12,14 @@ Documentation    : https://github.com/agusmakmun/Python-ZIP-Cracker/
 """
 ```
 <h4>1. With create file wordlist method.</h4>
+```
+[+]------------------------------------------------------------[+]
+ |                                                              |
+ |     =============================>> Create wordlist          |
+ |     ===================> Get password                        |
+ |                                                              |
+[+]------------------------------------------------------------[+]
+```
 <img src="http://bloggersmart.net/wp-content/uploads/2015/06/success1.png"/>
 
 <h4>2. With Wordlist input from user</h4>
